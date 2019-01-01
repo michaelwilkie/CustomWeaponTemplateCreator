@@ -1,0 +1,9 @@
+c:\users\michael\documents\visual studio 2015\Projects\custom_weapon_template\custom_weapon_template\bin\Debug\custom_weapon_template.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\custom_weapon_template\custom_weapon_template\bin\Debug\custom_weapon_template.exe
+c:\users\michael\documents\visual studio 2015\Projects\custom_weapon_template\custom_weapon_template\bin\Debug\custom_weapon_template.pdb
+c:\users\michael\documents\visual studio 2015\Projects\custom_weapon_template\custom_weapon_template\obj\Debug\custom_weapon_template.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\custom_weapon_template\custom_weapon_template\obj\Debug\custom_weapon_template.Form1.resources
+c:\users\michael\documents\visual studio 2015\Projects\custom_weapon_template\custom_weapon_template\obj\Debug\custom_weapon_template.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2015\Projects\custom_weapon_template\custom_weapon_template\obj\Debug\custom_weapon_template.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2015\Projects\custom_weapon_template\custom_weapon_template\obj\Debug\custom_weapon_template.exe
+c:\users\michael\documents\visual studio 2015\Projects\custom_weapon_template\custom_weapon_template\obj\Debug\custom_weapon_template.pdb
